@@ -1,0 +1,2 @@
+For this challenge we are comparing different cryptocurrencies.  Mostly, based on the total nuber of coins minted and the current coin supply.  After some data cleaning and feature reduction we determine the appropite # of clusters via the ineteria method and then ran the k-means methodolgy on the data set.  After determining the 4 groups we created a few visual outputs to help understand the data.  A scatter polt, a PivotTable and a 3d chart.
+
